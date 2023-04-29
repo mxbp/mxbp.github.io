@@ -1,4 +1,3 @@
-# PAGE-NAME
-
-- 1
-- 2
+layout: page
+title: "PAGE-TITLE"
+permalink: /1
